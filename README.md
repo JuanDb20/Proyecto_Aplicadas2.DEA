@@ -32,9 +32,19 @@ El modelo se apoya en la librería **Ultralytics YOLO** (versión 11) para la de
 ## ⚙️ Instalación paso a paso
 
 1. **Ejecuta estos codigos en serie al abrir GitBash en el directorio**  
--conda active
--conda create -n facial python=3.10 -y 
--conda activate facial
--pip install ultralytics
--python main.py
+
+
+conda active
+
+
+conda create -n facial python=3.10 -y 
+
+
+conda activate facial
+
+
+pip install ultralytics
+
+
+python main.py
 
